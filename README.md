@@ -1,0 +1,10 @@
+# neuvclass
+一键答题和获取答案
+
+需要安装第三方模块：
+pip install Pillow requests pytesseract
+
+python3
+
+使用了机器学习来识别验证码，所以需要需要安装tesseract
+https://github.com/tesseract-ocr/tesseract/releases
